@@ -2,7 +2,7 @@
 
 
 header {
-    background-color: #00eaff;
+    background-color: #c6f2f6;
     padding: 20px;
     text-align: center;
     border-radius: 10px;
@@ -10,8 +10,8 @@ header {
 
 
 img {
-    border-radius: 50%;
-    max-width: 150px;
+    border-radius: 20%;
+    max-width: 190px;
     margin: 10px auto;
     display: block;
 }
@@ -24,7 +24,7 @@ nav ul {
     padding: 20px;
     background-color: #1dc1c9;
     margin-bottom: 20px;
-    border-radius: 10px;
+    border-radius: 100px;
 }
 
 nav li {
