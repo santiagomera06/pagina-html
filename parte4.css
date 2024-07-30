@@ -1,0 +1,33 @@
+
+footer {
+    background-color: #5d6373;
+    padding: 20px;
+    border-top: 1px solid #3e6ea1;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #3f89a0;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #007bff;
+    color: #070707;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
